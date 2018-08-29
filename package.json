@@ -24,9 +24,9 @@
     "CHANGELOG.md"
   ],
   "dependencies": {
-    "svg-sprite": "~1.4.0",
-    "through2": "^2.0.3",
-    "plugin-error": "^1.0.1"
+    "plugin-error": "^1.0.1",
+    "svg-sprite": "github:ssk101/svg-sprite.git",
+    "through2": "^2.0.3"
   },
   "devDependencies": {
     "coveralls": "*",
